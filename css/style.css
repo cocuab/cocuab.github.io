@@ -6,31 +6,37 @@ body {
 h1 {
   font-family: 'Cookie', cursive;
   font-size: 8em;
+  color: #000000;
 }
 
 h2 {
   font-family: 'Raleway', sans-serif;
    font-size: 2em;
+   color: #000000;
 }
 
 h3 {
   font-family: 'Raleway', sans-serif;
    font-size: 1.5em;
+   color: #000000;
 }
 
 h4 {
   font-family: 'Raleway', sans-serif;
   font-size: 1.25em;
+  color: #000000;
 }
 
 h5 {
   font-family: 'Cookie', cursive;
   font-size: 6.5em;
+  color: #000000;
 }
 
 h6 {
   font-family: 'Raleway', sans-serif;
    font-size: 1.85em;
+   color: #000000;
 }
 
 .navbar .nav,
