@@ -118,7 +118,7 @@ a:active {
 .btn-default {
     border-color: #fff;
     color: #fff;
-    background-color: #FFF0F2;
+    background-color: #ADADAD;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -171,7 +171,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
     border-color: #fff;
     color: #fff;
-    background-color: #FFF0F2;
+    background-color: #ADADAD;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
