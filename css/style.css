@@ -39,6 +39,30 @@ h6 {
    color: #000000;
 }
 
+/* unvisited link */
+a:link {
+    color: #8c0017;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #8c0017;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #8c0017;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #8c0017;
+	text-decoration: none;
+}
+
 .navbar .nav,
 .navbar .nav > li {
   font-family: 'Raleway', sans-serif;
@@ -48,7 +72,7 @@ h6 {
   *display:inline; /* ie7 fix */
   *zoom:1; /* hasLayout ie7 trigger */
   vertical-align: top;
-}
+ }
 
 .navbar-inner {
   text-align:center;
@@ -94,7 +118,7 @@ h6 {
 .btn-default {
     border-color: #fff;
     color: #fff;
-    background-color: #1F1F1F;
+    background-color: #FFF0F2;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -147,7 +171,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
     border-color: #fff;
     color: #fff;
-    background-color: #8c0017;
+    background-color: #FFF0F2;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
