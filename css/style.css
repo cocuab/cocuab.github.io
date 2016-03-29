@@ -242,3 +242,9 @@ td {
     text-align: center;
     vertical-align: top;
 }
+
+hr {
+  color: #8c0017;
+  height: 10px;
+  border: none;
+}
