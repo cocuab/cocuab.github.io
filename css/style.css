@@ -3,18 +3,21 @@ body {
 	padding-bottom: 25px;
 }
 
+/* main title of site */
 h1 {
   font-family: 'Cookie', cursive;
-  font-size: 8em;
+  font-size: 7.5em;
   color: #000000;
 }
 
+/* small header */
 h2 {
   font-family: 'Raleway', sans-serif;
    font-size: 2em;
    color: #000000;
 }
 
+/* big paragraph description */
 h3 {
   font-family: 'Raleway', sans-serif;
    font-size: 1.5em;
@@ -27,6 +30,7 @@ h4 {
   color: #000000;
 }
 
+/* page titles */
 h5 {
   font-family: 'Cookie', cursive;
   font-size: 6.5em;
@@ -72,6 +76,7 @@ a:active {
   *display:inline; /* ie7 fix */
   *zoom:1; /* hasLayout ie7 trigger */
   vertical-align: top;
+  line-height: .75;
  }
 
 .navbar-inner {
@@ -83,7 +88,7 @@ a:active {
 }
 
 .info-sect, .carousel-thing {
-  margin-top: 20px;
+  margin-top: 14px;
 }
 
 /* make carousel arrows visible */
@@ -231,4 +236,9 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 15px 30px;
+}
+
+td {
+    text-align: center;
+    vertical-align: top;
 }
