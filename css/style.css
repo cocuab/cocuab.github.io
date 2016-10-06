@@ -45,25 +45,25 @@ h6 {
 
 /* unvisited link */
 a:link {
-    color: #8c0017;
+    color: #802060;
 	text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: #8c0017;
+    color: #802060;
 	text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-    color: #8c0017;
+    color: #802060;
 	text-decoration: none;
 }
 
 /* selected link */
 a:active {
-    color: #8c0017;
+    color: #802060;
 	text-decoration: none;
 }
 
